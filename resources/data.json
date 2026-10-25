@@ -1,0 +1,28 @@
+{
+    "cities": [
+        {
+            "id":"CDMX",
+            "name": "Ciudad de Mexico",
+            "distanceKm": 600, 
+            "tollCost": 2000,
+            "transportType": "Terreste"
+        }
+    ],
+    "'serviceType":[
+        {
+            "id": "SMF",
+            "name": "Smart Film",
+            "installationRateM2": 6
+        },
+        {
+            "id": "DPS",
+            "name": "DPS",
+            "installationRateM2": 15
+        },
+        {
+            "id": "ILU",
+            "name": "Iluminación",
+            "installationRateM2": 20
+        }
+    ]
+}

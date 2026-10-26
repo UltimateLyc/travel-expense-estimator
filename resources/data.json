@@ -1,13 +1,223 @@
 {
     "cities": [
-        {
-            "id":"CDMX",
-            "name": "Ciudad de Mexico",
-            "distanceKm": 600, 
-            "tollCost": 2000,
-            "transportType": "Terreste"
-        }
-    ],
+    {
+      "id": "AGS",
+      "name": "Aguascalientes",
+      "distanceKm": 300,
+      "tollCost": 800.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "BC",
+      "name": "Baja California",
+      "distanceKm": 5000,
+      "tollCost": null,
+      "transportType": "Vuelo"
+    },
+    {
+      "id": "BCS",
+      "name": "Baja California Sur",
+      "distanceKm": 5000,
+      "tollCost": null,
+      "transportType": "Vuelo"
+    },
+    {
+      "id": "CAMP",
+      "name": "Campeche",
+      "distanceKm": 1700,
+      "tollCost": null,
+      "transportType": "Vuelo"
+    },
+    {
+      "id": "CHIS",
+      "name": "Chiapas",
+      "distanceKm": 1400,
+      "tollCost": null,
+      "transportType": "Vuelo"
+    },
+    {
+      "id": "CHIH",
+      "name": "Chihuahua",
+      "distanceKm": 1200,
+      "tollCost": null,
+      "transportType": "Vuelo"
+    },
+    {
+      "id": "CDMX",
+      "name": "Ciudad de México",
+      "distanceKm": 600,
+      "tollCost": 1800.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "COAH",
+      "name": "Coahuila",
+      "distanceKm": 1000,
+      "tollCost": null,
+      "transportType": "Vuelo"
+    },
+    {
+      "id": "COL",
+      "name": "Colima",
+      "distanceKm": 250,
+      "tollCost": 800.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "DGO",
+      "name": "Durango",
+      "distanceKm": 650,
+      "tollCost": 2700.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "MEX",
+      "name": "Estado de México",
+      "distanceKm": 600,
+      "tollCost": 1800.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "GTO",
+      "name": "Guanajuato",
+      "distanceKm": 350,
+      "tollCost": 800.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "GRO",
+      "name": "Guerrero",
+      "distanceKm": 950,
+      "tollCost": 2700.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "HGO",
+      "name": "Hidalgo",
+      "distanceKm": 600,
+      "tollCost": 1800.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "JAL",
+      "name": "Vallarta, Jalisco",
+      "distanceKm": 300,
+      "tollCost": 2000.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "MICH",
+      "name": "Michoacán",
+      "distanceKm": 300,
+      "tollCost": 800.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "MOR",
+      "name": "Morelos",
+      "distanceKm": 700,
+      "tollCost": 1800.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "NAY",
+      "name": "Nayarit",
+      "distanceKm": 250,
+      "tollCost": 900.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "NL",
+      "name": "Nuevo León",
+      "distanceKm": 900,
+      "tollCost": 2000.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "OAX",
+      "name": "Oaxaca",
+      "distanceKm": 1100,
+      "tollCost": null,
+      "transportType": "Vuelo"
+    },
+    {
+      "id": "PUE",
+      "name": "Puebla",
+      "distanceKm": 700,
+      "tollCost": 2000.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "QRO",
+      "name": "Querétaro",
+      "distanceKm": 400,
+      "tollCost": 1000.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "QROO",
+      "name": "Quintana Roo",
+      "distanceKm": 2000,
+      "tollCost": null,
+      "transportType": "Vuelo"
+    },
+    {
+      "id": "SLP",
+      "name": "San Luis Potosí",
+      "distanceKm": 400,
+      "tollCost": 800.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "SIN",
+      "name": "Sinaloa",
+      "distanceKm": 800,
+      "tollCost": 2700.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "SON",
+      "name": "Sonora",
+      "distanceKm": 1500,
+      "tollCost": null,
+      "transportType": "Vuelo"
+    },
+    {
+      "id": "TAB",
+      "name": "Tabasco",
+      "distanceKm": 1400,
+      "tollCost": null,
+      "transportType": "Vuelo"
+    },
+    {
+      "id": "TAMPS",
+      "name": "Tamaulipas",
+      "distanceKm": 850,
+      "tollCost": 2500.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "TLAX",
+      "name": "Tlaxcala",
+      "distanceKm": 700,
+      "tollCost": 2000.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "VER",
+      "name": "Veracruz",
+      "distanceKm": 950,
+      "tollCost": 2500.00,
+      "transportType": "Terrestre"
+    },
+    {
+      "id": "YUC",
+      "name": "Yucatán",
+      "distanceKm": 2000,
+      "tollCost": null,
+      "transportType": "Vuelo"
+    }
+  ],
     "'serviceType":[
         {
             "id": "SMF",
